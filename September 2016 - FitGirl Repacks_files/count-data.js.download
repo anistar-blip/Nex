@@ -1,5 +1,0 @@
-var DISQUSWIDGETS;
-
-if (typeof DISQUSWIDGETS != 'undefined') {
-    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"1919 http:\/\/fitgirl-repacks.site\/?p=1919","comments":39},{"id":"1865 http:\/\/fitgirl-repacks.site\/?p=1865","comments":24},{"id":"1880 http:\/\/fitgirl-repacks.site\/?p=1880","comments":103},{"id":"1933 http:\/\/fitgirl-repacks.site\/?p=1933","comments":182},{"id":"1862 http:\/\/fitgirl-repacks.site\/?p=1862","comments":134},{"id":"1831 http:\/\/fitgirl-repacks.site\/?p=1831","comments":606},{"id":"1884 http:\/\/fitgirl-repacks.site\/?p=1884","comments":117},{"id":"1904 http:\/\/fitgirl-repacks.site\/?p=1904","comments":106},{"id":"1942 http:\/\/fitgirl-repacks.site\/?p=1942","comments":51},{"id":"1908 http:\/\/fitgirl-repacks.site\/?p=1908","comments":30}]});
-}
